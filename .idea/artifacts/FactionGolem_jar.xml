@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FactionGolem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FactionGolem_jar</output-path>
+    <root id="archive" name="FactionGolem.jar">
+      <element id="module-output" name="FactionGolem" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: FactionGolem
+version: ${project.version}
+main: me.kevy007.factiongolem.FactionGolem
+api-version: 1.13
+depend: [Factions, Vault]
+authors: [KevY007]
+description: Bored of original factions? This plugin aims to add golems that can defend for you!
